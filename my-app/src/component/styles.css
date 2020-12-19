@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.randBox {
+  display: inline-flex;
+
+  width: 100px;
+  height: 100px;
+  border: 1px solid rgb(90, 79, 79);
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  color: #fff;
+}
+.randBox span {
+  height: 14px;
+  width: 14px;
+}
